@@ -66,7 +66,7 @@ export default function Home() {
                 </div>
                 {isShortLinkShow && (
                     <Snippet variant="bordered">
-                        {`https://shorlinkplatorm.onrender.com/s?s=${shortLink}`}
+                        {`https://shorlinkplatorm.onrender.com/${shortLink}`}
                     </Snippet>
                 )}
                 {isErrorMessageShow && (
