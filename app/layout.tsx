@@ -5,7 +5,7 @@ import NextUIProvider from './LayoutProvider/NextUiProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'shortLinkPlatorm',
+    title: 'shortLinkPlatorms',
     description: 'Shorten Your URL',
 }
 
